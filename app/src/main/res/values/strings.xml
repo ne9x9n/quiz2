@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Y.N.P. Quiz</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="question1">In Yellowstone Nation Park there is a remote location called Fairyland that fewer people have been to than the top of mount everest.</string>
+    <string name="question2">There are 7 locations at Y.N.P. that have guest services including hotels, restaurants, etc. They also all have there own Disc Golf courses.</string>
+    <string name="question3">In the dead of winter in Y.N.P. what can the temperature drop down to?</string>
+    <string name="question4">A new mud pot appeared within 1 mile of Old Faithful geyser in the winter of 2013. What coins were found scattered around this new feature?</string>
+    <string name="question5">What two thermal features are located in Y.N.P.?</string>
+    <string name="question6">How many locations in Y.N.P have guest services?</string>
+    <string name="answer3Part1">-28°F</string>
+    <string name="answer3Part2">-66°F</string>
+    <string name="answer3Part3">-93°F</string>
+    <string name="answer4Part1">1997 Pesos </string>
+    <string name="answer4Part2">1878 Pesos </string>
+    <string name="answer4Part3">1948 Pesos</string>
+    <string name="answer5part1">Morning Glory</string>
+    <string name="answer5part2">Grand Prismatic</string>
+    <string name="answer5part3">West Strip Hydrothermal</string>
+    <string name="button1">Check Your Answers</string>
+    <string name="hint1">Lucky number</string>
+</resources>
